@@ -14,4 +14,8 @@ import ScanQrCode from 'react-native-scan-qr-code';
 
 // TODO: What to do with the module?
 ScanQrCode;
+
+
+
+
 ```
